@@ -1,0 +1,6 @@
+gradio
+tensorflow
+transformers
+torch
+streamlit
+streamlit_option_menu == 

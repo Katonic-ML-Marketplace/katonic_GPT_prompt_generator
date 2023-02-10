@@ -4,6 +4,8 @@ from streamlit_option_menu import option_menu
 import os
 
 routes = os.environ["ROUTE"]
+tokenizer = AutoTokenizer.from_pretrained("merve/chatgpt-prompts-bart-long")
+model = AutoModelForSeq2SeqLM.from_pretrained("merve/chatgpt-prompts-bart-long", from_tf=True)
 
 with st.sidebar:
     selected = option_menu(
@@ -16,9 +18,6 @@ if selected == "About":
     st.title("Katonic-GPT Prompt Generator App")
     st.write("""This Katonic_GPT Prompt generator generates ChatGPT prompts, it's based on a BART model trained on [this dataset](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts). 📓 You Simply enter a persona that you want and it'll generate the Prompt🤩
     """)
-
-tokenizer = AutoTokenizer.from_pretrained("merve/chatgpt-prompts-bart-long")
-model = AutoModelForSeq2SeqLM.from_pretrained("merve/chatgpt-prompts-bart-long", from_tf=True)
 
 if selected == "Katonic_GPT_Prompt Generator":
 

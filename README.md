@@ -27,9 +27,11 @@ Type The Persona e.g teacher
 ![image](https://user-images.githubusercontent.com/124993015/218326225-c733eb27-e29a-443a-bb4e-85209d4840d9.png)
 
 Let's copy the prompt and see what chatgpt replied
-1. before using our prompts
+1. before using our generated prompts
+![image](https://user-images.githubusercontent.com/124993015/218326722-d04ae3e4-300a-4720-842b-8d081f91b9c3.png)
 
-3. After using generated promots
+
+3. After using generated prompts
 ![image](https://user-images.githubusercontent.com/124993015/218326400-938f7a6e-d48e-4ea6-acfb-86390041aa5a.png)
 
 

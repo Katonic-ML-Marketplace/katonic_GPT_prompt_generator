@@ -2,6 +2,11 @@
 
 This App is based on BART Model, which can be able to generate Prompts based on persona you wish to go with.
 
+### About Repository
+- This repository contains Katonic-app.py file contains streamlit UI code app code.with all the used data/images in respective folders.
+- Dockerfile for deployment.
+- app.py file contains gradio UI code.
+
 ## Product Overview
 
 This Application is created using Hugging face BART model which is trained on awesome-chatgpt-prompts dataset.The dataset consist of act/role-player and their prompts in .csv file format. 
@@ -28,10 +33,14 @@ Type The Persona e.g teacher
 
 Let's copy the prompt and see what chatgpt replied
 1. before using our generated prompts
-![image](https://user-images.githubusercontent.com/124993015/218326722-d04ae3e4-300a-4720-842b-8d081f91b9c3.png)
+![image](https://user-images.githubusercontent.com/124993015/218328534-cdd0fb20-56a1-49d1-869a-2356d951d115.png)
+
 
 
 3. After using generated prompts
 ![image](https://user-images.githubusercontent.com/124993015/218326400-938f7a6e-d48e-4ea6-acfb-86390041aa5a.png)
 
+we can see the difference i.e. we get more detailed and relevant information using prompts.
 
+##### To play around this application:
+use git clone 

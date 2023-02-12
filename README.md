@@ -20,4 +20,16 @@ Prompt engineering or prompting is an AI (artificial intelligence) concept of ho
 Hence using This Application You can make awesome prompts for your ChatGPT Usage with detailed description of your usecase.
 
 ### User-Guide
-Type your Persona -> Submitt it -> Copy the Prompt generated -> Paste in ChatGPT.
+About
+![image](https://user-images.githubusercontent.com/124993015/218325957-772812de-15b6-41ff-94ad-cf7c42036ae2.png)
+
+Type The Persona e.g teacher
+![image](https://user-images.githubusercontent.com/124993015/218326225-c733eb27-e29a-443a-bb4e-85209d4840d9.png)
+
+Let's copy the prompt and see what chatgpt replied
+1. before using our prompts
+
+3. After using generated promots
+![image](https://user-images.githubusercontent.com/124993015/218326400-938f7a6e-d48e-4ea6-acfb-86390041aa5a.png)
+
+

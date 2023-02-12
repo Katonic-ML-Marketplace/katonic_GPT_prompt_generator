@@ -42,5 +42,5 @@ Let's copy the prompt and see what chatgpt replied
 
 we can see the difference i.e. we get more detailed and relevant information using prompts.
 
-##### To play around this application:
-use git clone 
+#### To play around this application:
+use git clone https://github.com/Katonic-ML-Marketplace/katonic_GPT_prompt_generator.git

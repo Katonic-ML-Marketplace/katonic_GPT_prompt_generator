@@ -33,7 +33,7 @@ if selected == "Katonic_GPT_Prompt Generator":
         output = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
         st.code(output[0])
 
-        st.markdown("""You can Copy the Prompts👆 and just paste it in [ChatGPT](https://chat.openai.com/) to get the desired result🤩""")
+        st.markdown("""You can Copy the Prompts👆 and just paste it in [ChatGPT](https://chat.openai.com/) to get the desired results🤩""")
 
 
 
